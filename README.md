@@ -4,12 +4,6 @@ This project focuses on innovating the retail self-checkout process using advanc
 
 ## Real-Time Object Detection Performance
 
-<p align="center">
-  <img src="figures/latency.svg" width=48%>
-  <img src="figures/params.svg" width=48%> <br>
-  Comparisons with other models in terms of latency-accuracy (left) and size-accuracy (right) trade-offs.
-</p>
-
 [![arXiv](https://img.shields.io/badge/arXiv-2405.14458-b31b1b.svg)](https://arxiv.org/abs/2405.14458) <a href="https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov10-object-detection-on-custom-dataset.ipynb#scrollTo=SaKTSzSWnG7s"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 ## Installation and Usage
@@ -40,4 +34,3 @@ If our project or models help your work, please consider citing:
   publisher={MDPI}
 }
 ```
-
